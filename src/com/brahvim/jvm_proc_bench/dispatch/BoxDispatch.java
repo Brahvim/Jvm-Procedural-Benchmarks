@@ -1,6 +1,10 @@
-package com.brahvim.jvm_proc_bench.dispatch.box;
+package com.brahvim.jvm_proc_bench.dispatch;
 
-import com.brahvim.jvm_proc_bench.dispatch.Config;
+import com.brahvim.jvm_proc_bench.dispatch.boxes.Box;
+import com.brahvim.jvm_proc_bench.dispatch.boxes.BoxCos;
+import com.brahvim.jvm_proc_bench.dispatch.boxes.BoxNone;
+import com.brahvim.jvm_proc_bench.dispatch.boxes.BoxSin;
+import com.brahvim.jvm_proc_bench.dispatch.boxes.BoxTan;
 
 public class BoxDispatch {
 

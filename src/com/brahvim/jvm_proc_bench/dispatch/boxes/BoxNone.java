@@ -1,4 +1,4 @@
-package com.brahvim.jvm_proc_bench.dispatch.box;
+package com.brahvim.jvm_proc_bench.dispatch.boxes;
 
 public class BoxNone extends Box {
 
